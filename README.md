@@ -1,1 +1,1 @@
-Moved to (https://github.com/samsoncms/seo)[SamsonCMS SEO application]
+Moved to [SamsonCMS SEO application](https://github.com/samsoncms/seo)
